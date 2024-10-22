@@ -1,0 +1,101 @@
+ProveedorID,Nombre del proveedor,Pais,Telefono,Correo,Direccion,Tipo de producto suministrado
+1,Blanco-Moreno,Colombia,4670323,blanco-moreno@gmail.com,"Via Raúl Conde 55
+Lugo, 50946",Materiales decorativos
+2,"Pastor, Almeida and Valencia",Argentina,6002982,"pastor,almeidaandvalencia@gmail.com","Rambla Miguel Pazos 21
+Guipúzcoa, 24685",Materiales decorativos
+3,Carbó-Dueñas,Argentina,8242474,carbó-dueñas@gmail.com,"C. Marcela Angulo 3
+Sevilla, 12708",Materiales decorativos
+4,"Agudo, Jerez and Benavides",Colombia,5990570,"agudo,jerezandbenavides@gmail.com","Callejón Tiburcio Lamas 74
+Sevilla, 36034",Materiales decorativos
+5,"Mesa, Verdugo and Bonilla",Colombia,2018974,"mesa,verdugoandbonilla@gmail.com","Pasaje Lupe Real 73 Puerta 4 
+Segovia, 51254",Flores
+6,"Río, Barriga and Amat",Chile,7960621,"río,barrigaandamat@gmail.com","Cañada Juan Antonio Valera 33
+Valladolid, 57583",Flores
+7,"Moll, Guardiola and Mayoral",Peru,2927201,"moll,guardiolaandmayoral@gmail.com","Pasaje Eulalia Carretero 98
+Cantabria, 34138",Flores
+8,Melero and Sons,Peru,5349683,meleroandsons@gmail.com,"Pasadizo de María Manuela Niño 257
+Santa Cruz de Tenerife, 02361",Materiales decorativos
+9,Larrañaga Ltd,Peru,7967998,larrañagaltd@gmail.com,"Pasadizo Carolina Salas 15
+Málaga, 47986",Flores
+10,Torrent-Alonso,Chile,2661133,torrent-alonso@gmail.com,"Camino de Paula Cazorla 935 Puerta 8 
+Burgos, 30038",Flores
+11,Martí-Batalla,Ecuador,3384121,martí-batalla@gmail.com,"Calle Rodrigo Manso 7 Apt. 48 
+Barcelona, 61964",Materiales decorativos
+12,Solano-Lladó,Ecuador,3757387,solano-lladó@gmail.com,"Rambla Dimas Bertrán 35
+Granada, 07290",Materiales decorativos
+13,Llorente Ltd,Chile,4781056,llorenteltd@gmail.com,"Urbanización de Alicia Carvajal 83 Piso 2 
+Cantabria, 30000",Materiales decorativos
+14,"Tejedor, Arnal and Maestre",Chile,6020129,"tejedor,arnalandmaestre@gmail.com","Alameda Javiera Navarrete 28 Apt. 37 
+Vizcaya, 65575",Materiales decorativos
+15,"Vidal, Querol and Espada",Chile,4519263,"vidal,querolandespada@gmail.com","Camino de Mateo Duarte 39
+La Rioja, 40256",Flores
+16,Pujadas Ltd,Argentina,6975302,pujadasltd@gmail.com,"Callejón de Asunción Menendez 98 Puerta 5 
+Álava, 51701",Materiales decorativos
+17,Riba-Armas,Colombia,2108377,riba-armas@gmail.com,"Cuesta Jordana Roselló 716
+Alicante, 93165",Flores
+18,Pombo-Atienza,Ecuador,3433306,pombo-atienza@gmail.com,"Camino de Marcio Nogués 29
+Las Palmas, 82256",Flores
+19,"Lasa, Valle and Fabra",Ecuador,4360497,"lasa,valleandfabra@gmail.com","Callejón de Virgilio Ureña 12
+Almería, 98010",Flores
+20,Cárdenas-Reina,Ecuador,5009150,cárdenas-reina@gmail.com,"Camino de Graciela Pinedo 84 Piso 6 
+Barcelona, 65329",Flores
+21,"Briones, Corominas and Pizarro",Argentina,6987354,"briones,corominasandpizarro@gmail.com","Rambla de Angelino Lluch 20
+Navarra, 13972",Materiales decorativos
+22,"Alberto, Baró and Sierra",Argentina,3570230,"alberto,baróandsierra@gmail.com","Pasaje de Yolanda Muñoz 153
+Teruel, 59606",Flores
+23,Garay Ltd,Colombia,5768665,garayltd@gmail.com,"Acceso Gertrudis Castro 79 Puerta 0 
+Cádiz, 53106",Materiales decorativos
+24,Jaén-Gómez,Ecuador,8293063,jaén-gómez@gmail.com,"Calle de Heraclio Carmona 14
+Cádiz, 70297",Flores
+25,"Cardona, Parra and Solís",Colombia,3914930,"cardona,parraandsolís@gmail.com","Urbanización Guiomar Castro 48 Puerta 1 
+Tarragona, 68131",Materiales decorativos
+26,Molina and Sons,Peru,5024513,molinaandsons@gmail.com,"Ronda Jovita Mulet 38 Piso 0 
+Melilla, 85073",Flores
+27,Gual Ltd,Colombia,8018597,gualltd@gmail.com,"Pasadizo Sandalio Bou 4
+Tarragona, 27711",Flores
+28,"Pascual, Villanueva and Donoso",Colombia,5370079,"pascual,villanuevaanddonoso@gmail.com","Glorieta de Ramón Mena 46
+Jaén, 79984",Materiales decorativos
+29,Bertrán PLC,Chile,5335069,bertránplc@gmail.com,"Acceso Cintia Gomila 89
+Segovia, 56836",Materiales decorativos
+30,"Marquez, Lucas and Sales",Ecuador,3701039,"marquez,lucasandsales@gmail.com","Paseo de Olimpia Valderrama 73 Piso 2 
+Murcia, 56721",Materiales decorativos
+31,Benitez-Batalla,Ecuador,6031844,benitez-batalla@gmail.com,"Plaza Candelas Córdoba 836 Puerta 5 
+Sevilla, 14369",Flores
+32,Echevarría Inc,Chile,4533611,echevarríainc@gmail.com,"Cañada Clementina Bejarano 3
+Lugo, 11841",Materiales decorativos
+33,"Carrasco, Ortega and Belmonte",Colombia,9322947,"carrasco,ortegaandbelmonte@gmail.com","Rambla Macarena Gilabert 204
+Salamanca, 73721",Materiales decorativos
+34,Flores-Estévez,Ecuador,5484284,flores-estévez@gmail.com,"Via de Maite Rius 14 Apt. 25 
+Córdoba, 08304",Flores
+35,Ribas Group,Argentina,6815964,ribasgroup@gmail.com,"Camino de Rogelio Morata 41 Puerta 9 
+Albacete, 78418",Flores
+36,Cuéllar Ltd,Peru,4812716,cuéllarltd@gmail.com,"Glorieta de Amor Gimeno 7
+Zamora, 95047",Materiales decorativos
+37,"Bernad, Diez and Garcés",Argentina,6154669,"bernad,diezandgarcés@gmail.com","Pasadizo de Prudencia Alarcón 96
+Sevilla, 13358",Flores
+38,"Cid, Ortega and Cortes",Ecuador,4782343,"cid,ortegaandcortes@gmail.com","Rambla de Juan Luis Zurita 64 Puerta 4 
+Cáceres, 82593",Materiales decorativos
+39,Elorza-Ferrera,Argentina,9972183,elorza-ferrera@gmail.com,"Cañada Cosme Belmonte 24
+Alicante, 37530",Materiales decorativos
+40,Alegria-Maldonado,Ecuador,3422498,alegria-maldonado@gmail.com,"Cuesta de Priscila Anguita 80 Apt. 52 
+Pontevedra, 89659",Materiales decorativos
+41,Valdés-Aznar,Peru,9572468,valdés-aznar@gmail.com,"Avenida Fabiola Jódar 663
+Cáceres, 16638",Flores
+42,Fuster-Palau,Chile,3123582,fuster-palau@gmail.com,"Cañada Leonardo Mínguez 4 Piso 1 
+Badajoz, 19222",Flores
+43,"Fabregat, Ropero and Sala",Ecuador,3451836,"fabregat,roperoandsala@gmail.com","Alameda Rodrigo Alarcón 68 Apt. 81 
+Cantabria, 49870",Materiales decorativos
+44,Osuna-Ponce,Ecuador,9565563,osuna-ponce@gmail.com,"Rambla de Carlos Burgos 35 Piso 8 
+Santa Cruz de Tenerife, 76336",Materiales decorativos
+45,Blanes-Oliveras,Chile,3078130,blanes-oliveras@gmail.com,"Vial de Arturo Garzón 566 Apt. 39 
+Sevilla, 51383",Flores
+46,"Alemán, Cobo and Tomé",Argentina,2425035,"alemán,coboandtomé@gmail.com","Calle Morena Herranz 96
+Cádiz, 42542",Flores
+47,Valencia Ltd,Ecuador,8512454,valencialtd@gmail.com,"Cuesta Susanita Guardia 542
+Lleida, 65824",Materiales decorativos
+48,Samper-Fuente,Chile,8225076,samper-fuente@gmail.com,"Glorieta Juliana Perea 76
+Girona, 49372",Materiales decorativos
+49,Ayala Group,Peru,7857662,ayalagroup@gmail.com,"Ronda Narciso Gisbert 417 Puerta 2 
+Baleares, 99137",Materiales decorativos
+50,Elorza-Simó,Colombia,7351504,elorza-simó@gmail.com,"C. Milagros Álamo 1
+Álava, 99113",Materiales decorativos

@@ -1,0 +1,13 @@
+ProductoID,Nombre,Tipo de producto,Color,Tamanio,Precio,Cantidad en stock
+1,Rosa,Flor,Rojo,Pequeño,10,61
+1,Rosa,Flor,Blanco,Pequeño,20,65
+1,Rosa,Flor,Rosado,Pequeño,30,91
+2,Girasol,Flor,Amarillo,Mediano,15,83
+3,Orquidea,Flor,Morado,Pequeño,50,43
+3,Orquidea,Flor,Blanco,Mediano,75,64
+4,Lirio,Flor,Blanco,Mediano,20,94
+4,Lirio,Flor,Amarillo,Pequeño,30,84
+5,Alstroemeria,Flor,Naranja,Grande,12,24
+5,Alstroemeria,Flor,Rosado,Grande,22,35
+6,Arreglo Primavera,Arreglo,Multicolor,Pequeño,80,12
+7,Arreglo Amor Eterno,Arreglo,Rojo,Grande,100,46
